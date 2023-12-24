@@ -1,38 +1,52 @@
-<?php
-if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
-    // Proses login di sini
-    $username = $_POST["username"];
-    $password = $_POST["password"];
+<!DOCTYPE html>
+<html lang="en">
 
-    // Tambahkan validasi dan logika login sesuai kebutuhan
-    // Contoh sederhana hanya untuk ilustrasi
-    if ($username == "user" && $password == "pass") {
-        echo "<p>Login successful!</p>";
-    } else {
-        echo "<p>Login failed. Please check your username and password.</p>";
-    }
-}
-?>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<div class="form-container" id="loginFormContainer">
-  <form action="index.php" method="post">
-    <input type="hidden" name="action" value="login">
-    <h2 style="text-align:center;">Login</h2>
-    <img src="img/user icon.jpg" alt="" width="100" style="margin:auto;" />
-    <label for="username">Username:</label>
-    <input type="text" id="username" name="username" required>
-    <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required>
-    
-    <div class="remember-forgot">
-      <label for="remember">
-        <input type="checkbox" id="remember" name="remember"> Remember Me
-      </label>
-      <br>
-      <a href="index.php?action=forgot_password">Forgot Password?</a>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <!-- My Style -->
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
+
+    <title>Login | Kas RT</title>
+</head>
+
+<body>
+    <div class="container">
+        <form class="mt-3" method="post" action="">
+            <h2 class="text-center fw-semibold">login</h2>
+            <img src="./img/user_icon.jpg" width="100" alt="" class="mx-auto d-block">
+            <div class="mb-3">
+                <label for="username" class="form-label fw-medium">Username</label>
+                <input type="text" name="username" class="form-control" id="username" placeholder="input your username..." required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label fw-medium">Password</label>
+                <input type="password" name="password" class="form-control" id="password" placeholder="input your password..." required>
+            </div>
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="remember" name="remember">
+                <label class="form-check-label fw-medium" for="remember">Remember me</label> |
+                <a href="register.php" class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover text-end d-inline fw-medium">
+                    Register here!
+                </a>
+            </div>
+            <button type="submit" class="btn btn-success d-block mx-auto fw-semibold" name="login">Login</button>
+        </form>
     </div>
-    <br>
-    <button type="submit" name="login">Login</button>
-    <p>Don't have an account? <a href="index.php?action=register">Register Now</a></p>
-  </form>
-</div>
+</body>
+
+</html>
