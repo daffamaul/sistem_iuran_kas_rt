@@ -1,13 +1,13 @@
-## TI.22.A4
-
 # Profil
 | KELOMPOK ? | Sistem Iuran KAS RT                                 |
 | --------   | --------------------------------------------------- |
 | Gilar Sumilar | 312210407 |
-| M. Daffa Maulana |  |
-| Abid Lu'ay |  |
+| M. Daffa Maulana | 312210335 |
+| Abid Lu'ay | 312210401 |
+| Kelas  | TI.22.A4 |
 | LAPORAN  | [Link]() |
-| YouTube  | [Youtube]() |
+| Database  | [Database](https://drive.google.com/file/d/10i3eJwDtfdpaAQut-mR-M9BfRyuNfh_v/view?usp=drive_link) |
+| YouTube  | [Youtube](https://youtu.be/E14PDqXUCps) |
 
 ### Perintah tugas
 **Menglola data Warga (CRUD)**
@@ -48,6 +48,7 @@ Hanya admin yang dapat melakukan CRUD, terdapat total kas yang terkumpul.
 Sudah include dengan `transaksi iuran warga`.
 
 # Database 
+<img src="https://github.com/daffamaul/sistem_iuran_kas_rt/blob/main/img/database2.png" alt="Tugas" style="width: 60%;"/>
 
  
 **[---KEMBALI-->](#Profil)**
