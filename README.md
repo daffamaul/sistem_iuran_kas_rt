@@ -1,10 +1,15 @@
+# Sistem Iuran Kas RT
+
 # Profil
-| KELOMPOK ? | Sistem Iuran KAS RT                                 |
+```
+Kelompok ?
+- M. Daffa Maulana Arrasyid (312210335)
+- Gilar Sumilar (312210407)
+- Abid Lu'ay Rihan Taufik (312210401)
+```
+
+| File | Link                              |
 | --------   | --------------------------------------------------- |
-| Gilar Sumilar | 312210407 |
-| M. Daffa Maulana | 312210335 |
-| Abid Lu'ay | 312210401 |
-| Kelas  | TI.22.A4 |
 | LAPORAN  | [Link]() |
 | Database  | [Database](https://drive.google.com/file/d/10i3eJwDtfdpaAQut-mR-M9BfRyuNfh_v/view?usp=drive_link) |
 | YouTube  | [Youtube](https://youtu.be/E14PDqXUCps) |
@@ -53,4 +58,5 @@ Sudah include dengan `transaksi iuran warga`.
  
 **[---KEMBALI-->](#Profil)**
 
+<h1 align="center"> TERIMAKASIH </h1>
 
