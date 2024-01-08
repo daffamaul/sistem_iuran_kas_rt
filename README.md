@@ -13,7 +13,7 @@ Kelompok ?
 | LAPORAN  | [Link]() |
 | Database  | [Database](https://drive.google.com/file/d/10i3eJwDtfdpaAQut-mR-M9BfRyuNfh_v/view?usp=drive_link) |
 | YouTube  | [Youtube](https://youtu.be/E14PDqXUCps) |
-| LAPORAN DOKUMENTASI |(https://drive.google.com/file/d/1dLiqqbv2JXxbHFOz0c85tQuJYHNLnbG5/view?usp=drivesdk)
+| LAPORAN DOKUMENTASI |[PDF](https://drive.google.com/file/d/1dLiqqbv2JXxbHFOz0c85tQuJYHNLnbG5/view?usp=drivesdk)
 
 ### Perintah tugas
 **Menglola data Warga (CRUD)**
