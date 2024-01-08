@@ -5,15 +5,14 @@
 Kelompok ?
 - M. Daffa Maulana Arrasyid (312210335)
 - Gilar Sumilar (312210407)
-- Abid Lu'ay Rihan Taufik (312210401)
+- Abid Lu'ay Raihan Taufik (312210401)
 ```
 
 | File | Link                              |
 | --------   | --------------------------------------------------- |
-| LAPORAN  | [Link]() |
+| LAPORAN  | [Link](https://drive.google.com/file/d/1dLiqqbv2JXxbHFOz0c85tQuJYHNLnbG5/view?usp=drivesdk) |
 | Database  | [Database](https://drive.google.com/file/d/10i3eJwDtfdpaAQut-mR-M9BfRyuNfh_v/view?usp=drive_link) |
 | YouTube  | [Youtube](https://youtu.be/E14PDqXUCps) |
-| LAPORAN DOKUMENTASI |[PDF](https://drive.google.com/file/d/1dLiqqbv2JXxbHFOz0c85tQuJYHNLnbG5/view?usp=drivesdk)
 
 ### Perintah tugas
 **Menglola data Warga (CRUD)**
